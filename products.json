@@ -1,0 +1,39 @@
+{
+    "products": [
+      
+      {
+        "ProdImage":"./images/1.jpg",
+        "ProdName": "Headphone",
+        "ProdDescription": "A high-performance Headphone suitable for gaming and productivity.",
+        "ProdPrice": 1200,
+        "ProdQuantity": 50,
+        "ProdCategory": "Electronics"
+      },
+      {
+        "ProdImage":"./images/2.jpeg",
+        "ProdName": "Headphone",
+        "ProdDescription": "A high-performance Headphone suitable for gaming and productivity.",
+        "ProdPrice": 250,
+        "ProdQuantity": 50,
+        "ProdCategory": "Electronics"
+      },
+      {
+        "ProdImage":"./images/3.jpg",
+        "ProdName": "Headphone",
+        "ProdDescription": "A high-performance Headphone suitable for gaming and productivity.",
+        "ProdPrice": 1000,
+        "ProdQuantity": 50,
+        "ProdCategory": "Electronics"
+      },
+      {
+        "ProdImage":"./images/5.jpg",
+        "ProdName": "Headphone",
+        "ProdDescription": "A high-performance Headphone suitable for gaming and productivity.",
+        "ProdPrice": 550,
+        "ProdQuantity": 50,
+        "ProdCategory": "Electronics"
+      }
+      
+    ]
+  }
+  
